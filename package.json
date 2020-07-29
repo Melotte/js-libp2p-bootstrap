@@ -35,7 +35,7 @@
   },
   "dependencies": {
     "debug": "^4.1.1",
-    "mafmt": "^7.0.0",
+    "mafmt": "git+https://github.com/Melotte/js-mafmt.git#v7.1.0-patched",
     "multiaddr": "git+https://github.com/Melotte/js-multiaddr.git#v7.5.0-patched",
     "peer-id": "^0.13.5"
   },
